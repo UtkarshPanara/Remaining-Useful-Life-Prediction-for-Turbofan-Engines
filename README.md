@@ -2,6 +2,8 @@
 
  > RUL Prediction for Turbofan Engines (CMPASS dataset) using Convolutional Neural Networks (CNNs)
 
+ > Key Words: Time Series Analysis, Remaining Useful Life (RUL), CMAPSS, Predictive Maintenance, Convolutional Neural Networks, K-means Clustering
+
 ## Table of Contents
 
 - [Description](#description)
